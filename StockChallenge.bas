@@ -3,7 +3,7 @@ Sub Stock()
 Dim WS_Count As Integer
 Dim I As Integer
 Dim Counter As Integer
-Dim X As Integer
+Dim X As Double
 Dim Ticker As String
 Dim Open1 As Double
 Dim Close1 As Double
